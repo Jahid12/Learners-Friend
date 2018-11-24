@@ -49,7 +49,25 @@ void Vector::vector_additon()
 }
 void Vector::vector_subtraction()
 {
-
+    get_vector();
+    int z1,z2,z3;
+    z1=x1-y1;
+    z2=x2-y2;
+    z3=x3-y3;
+    cout << "\nAddition of the two vector is : ";
+    cout << z1 << "i";
+    if(z2<0){
+        cout << z2 << "j";
+    }
+    else{
+        cout << "+" << z2 << "j";
+    }
+    if(z3<0){
+        cout << z3 << "k";
+    }
+    else{
+        cout << "+" << z3 << "k";
+    }
 }
 void Vector::scalar_multiplication()
 {
