@@ -1,0 +1,11 @@
+A quantity or phenomenon that has two independent properties, magnitude and direction, is called vector. 
+The term has both the mathematical or geometrical importance of such a quantity.It is typically 
+represented by an arrow whose direction is the same as that of the quantity and whose length is
+proportional to the quantity’s magnitude.
+Some Example of vector quantity are displacements, velocity, acceleration, momentum, force etc. 
+The quantity which has only magnitude is called scalar. Some scalar quantity are distance, mass, 
+time, frequency, wavelength etc.
+Vectors can be depicted graphically in two or three dimensions. Magnitude is shown as the length of
+a line segment. Direction is shown by the orientation of the line segment, and by an arrow at one end. 
+You will be able learn more on vector on the next topic.
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1535168090 source:f:\codes\project files\debugyourstupidcode\main.cpp
+	<bits/stdc++.h>
+	<math.h>
+
+1535168023 source:f:\codes\project files\debugyourstupidcode\secondfile.cpp
+	<bits/stdc++.h>
+	<math.h>
+

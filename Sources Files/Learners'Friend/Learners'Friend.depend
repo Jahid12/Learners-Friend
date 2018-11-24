@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1542480853 source:f:\codes\project files\learners'friend\kinematics.cpp
+	<iostream>
+	"Kinematics.h"
+
+1542480853 f:\codes\project files\learners'friend\kinematics.h
+
+1542474940 source:f:\codes\project files\learners'friend\newtonianmechanics.cpp
+	<iostream>
+	<cstring>
+	"NewtonianMechanics.h"
+
+1542474940 f:\codes\project files\learners'friend\newtonianmechanics.h
+
+1542520672 source:f:\codes\project files\learners'friend\vector.cpp
+	"Vector.h"
+	<iostream>
+	<fstream>
+
+1542520510 f:\codes\project files\learners'friend\vector.h
+
+1542521137 source:f:\codes\project files\learners'friend\main.cpp
+	<iostream>
+	"Kinematics.h"
+	"NewtonianMechanics.h"
+	"Vector.h"
+	<fstream>
+

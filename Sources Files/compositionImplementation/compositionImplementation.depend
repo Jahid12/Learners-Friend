@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1534652856 source:f:\codes\project files\compositionimplementation\pasrone.cpp
+	"pasrOne.h"
+	<iostream>
+
+1534652633 f:\codes\project files\compositionimplementation\pasrone.h
+
+1534651284 source:f:\codes\project files\compositionimplementation\main.cpp
+	<iostream>
+	"pasrOne.h"
+
