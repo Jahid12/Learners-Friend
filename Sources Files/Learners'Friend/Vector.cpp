@@ -36,9 +36,9 @@ void Vector::Basic_idea_about_Vector()
 }
 void Vector::get_vector()
 {
-    cout << "Put the value A1, A2, A3 of the first vector : " ;
+    cout << "Put the value of A1, A2, A3 of the first vector : " ;
     cin >> x1 >> x2 >> x3;
-    cout << "\nPut the value B1, B2, B3 of the second vector : ";
+    cout << "\nPut the value of B1, B2, B3 of the second vector : ";
     cin >> y1 >> y2 >> y3;
 }
 void Vector::vector_additon()
