@@ -63,7 +63,12 @@ void NewtonianMechanics::Newtons_laws()
 }
 void NewtonianMechanics::radius_of_gyration()
 {
-
+     cout << "We can find the value of radius of gyration from the formula I = M*K*K, where I,M and K represent \n" <<
+            "Moment of inertia, Mass and radius of gyration \n";
+    cout << "For finding the value of radius of gyration  put the value of moment of inertia, mass :\n" ;
+    cin >> moment_of_inertia >> mass;
+    rad_of_gyaration = sqrt(moment_of_inertia/mass);
+    cout << "Radius of gyration is : " << rad_of_gyaration << endl;
 
 }
 void NewtonianMechanics::angular_momentum()
